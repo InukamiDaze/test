@@ -1,4 +1,10 @@
 body{
+<<<<<<< HEAD
 background-color: grey;
 color: white;
+font-family: "Comic Sans MS", cursive, sans-serif;
+=======
+background-color: black;
+color: white;
+>>>>>>> ab-2l_ebreo
 }

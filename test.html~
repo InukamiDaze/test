@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
+<<<<<<< HEAD
+	<h1>Vanishment this World!</h1>
+=======
+	<h1>GOODBYE WORLD!</h1>
+>>>>>>> ab-2l_ebreo
 	<img src="myimage.gif"/>
 	<p>Amiel O. Ebreo, 2012-48245, AB-2L</p>
 </body>
